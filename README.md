@@ -1,5 +1,22 @@
-# projetoIA
-Destinado ao Projeto de IA
+# Projeto IA - Ciencias de Dados com Python
+
+* Universidade Nove de Julho
+
+Destinado ao Projeto de Inteligencia Artificial com linguagem Python. 
+
+Ministrado pelo Professor - Jose Eduardo Storopoli
+
+'''
+Storopoli & Souza (2020). Ciência de Dados com Python: pandas, matplotlib, Scikit-Learn, TensorFlow e PyTorch. Disponível em https://github.com/storopoli/ciencia-de-dados
+'''
+
+
+# Conteúdo
+
+O Projeto trás dados estatísticos de dividas publicas em abertas em diferentes regiões do País.
+
+Mostrando valores da divid e qual a principal finalidade da divida ativa. 
+
 
 ## Proposta de Avaliação da Disciplina
 

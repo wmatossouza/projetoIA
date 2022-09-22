@@ -15,7 +15,7 @@ Storopoli & Souza (2020). Ciência de Dados com Python: pandas, matplotlib, Scik
 
 O Projeto trás dados estatísticos de dividas publicas em abertas em diferentes regiões do País.
 
-Mostrando valores da divid e qual a principal finalidade da divida ativa. 
+Mostrando valores da divida e qual a principal finalidade da divida ativa. 
 
 
 ## Proposta de Avaliação da Disciplina
